@@ -1,11 +1,11 @@
-# Generateur-et-verificateur-de-mots-de-passe
-# 🔐 Password Tool en C
+# Générateur-et-vérificateur-de-mots-de-passe
+# Password Tool en C
 
 Un outil en C permettant de **générer** et **vérifier la robustesse** de mots de passe. Projet éducatif en cybersécurité et programmation système.
 
 ---
 
-## 🛠️ Fonctionnalités
+## Objectifs
 
 - Générateur de mots de passe aléatoires avec lettres, chiffres et symboles.
 - Vérificateur de robustesse selon des critères classiques :
@@ -15,7 +15,7 @@ Un outil en C permettant de **générer** et **vérifier la robustesse** de mots
 
 ---
 
-## 📦 Compilation
+## Comment lancer le projet ?
 
 Ce projet fonctionne sur **Linux** avec `gcc`.
 
