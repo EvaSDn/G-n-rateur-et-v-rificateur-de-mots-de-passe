@@ -20,5 +20,5 @@ Un outil en C permettant de **générer** et **vérifier la robustesse** de mots
 Ce projet fonctionne sur **Linux** avec `gcc`.
 
 ```bash
-gcc password_tool.c -o password_tool
-./password_tool
+gcc password.c -o password
+./password
